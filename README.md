@@ -1,2 +1,1 @@
-# Streamlit-App-for-ML-Models
-The ML models contains employee churn dataset to predict whether an employe leaves or stays. This ML Model is used for predictive modeling to analyze employee churn (attrition) and help HR and management teams identify patterns that can prevent the loss of valuable talent.
+The ML model utilizes an employee churn dataset to predict whether an employee is likely to leave or stay with the organization. It serves as a powerful predictive analytics tool for HR and management teams, enabling them to identify key patterns and factors contributing to employee attrition. By analyzing these insights, organizations can proactively implement strategies to retain valuable talent and reduce turnover.
